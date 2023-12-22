@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.normal {
+  background-color: transparent;
+  border: none;
+  color: black;
+  cursor: pointer;
+  font-weight: 500;
+  font-family: 'Roboto';
+  padding: 4px 8px 4px 8px;
+}
+
+.selected {
+  border: 1px solid #0284c7;
+  background-color: #0284c722;
+  border-radius: 15px;
+  color: #0284c7;
+}

@@ -1,0 +1,42 @@
+/* Write your CSS here */
+.card {
+  min-width: 120px;
+  min-height: 180px;
+  margin: 10px;
+  background-color: #f8f8ff;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+
+.card-img {
+  width: 60px;
+  height: 60px;
+}
+
+.card-name {
+  color: #e73959;
+  font-size: 12px;
+  font-weight: 500;
+  margin-bottom: 1px;
+}
+
+.counts {
+  width: 80%;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-bottom: 1px;
+}
+
+.count-img {
+  height: 8px;
+  width: 8px;
+}
+
+.count-para {
+  font-size: 8px;
+}
